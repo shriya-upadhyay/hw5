@@ -38,6 +38,7 @@ bool schedule(
     }
     sched.clear();
 
+		//keep track of n (days) and k ()
     size_t n = avail.size();
     size_t k = avail[0].size();
 
